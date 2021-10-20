@@ -44,19 +44,25 @@ main {
     font-weight: lighter;
 }
 
-.button {
-    background-color: hsl(0, 0%, 95%);
-	cursor:pointer;
-    margin-top: 90px;
-    border-radius: 30px;
-    text-align: center;
-    width: 140px;
-    padding: 10px;
+p {
+    padding-bottom: 90px;
 }
 
-.learn {
-    color:hsl(31, 77%, 52%);
+.button-sedans {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+	cursor:pointer;
+    border-radius: 30px;
+    padding: 15px 30px;
     text-decoration: none;
+    transition: 0.4s all;
+}
+
+.button-sedans:hover {
+    cursor: pointer;
+    background-color: hsl(31, 77%, 52%);
+    color:hsl(0, 0%, 95%);
+    border: solid hsl(0, 0%, 95%) 2px;
 }
 
 .suvs {
@@ -66,6 +72,23 @@ main {
     padding: 40px;
 }
 
+.button-suvs {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+	cursor:pointer;
+    border-radius: 30px;
+    padding: 15px 30px;
+    text-decoration: none;
+    transition: 0.4s all;
+}
+
+.button-suvs:hover {
+    cursor: pointer;
+    background-color: hsl(184, 100%, 22%);
+    color:hsl(0, 0%, 95%);
+    border: solid hsl(0, 0%, 95%) 2px;
+}
+
 .luxury {
     background-color: hsl(179, 100%, 13%);
     width: 300px;
@@ -73,6 +96,23 @@ main {
     padding: 40px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.button-luxury {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+	cursor:pointer;
+    border-radius: 30px;
+    padding: 15px 30px;
+    text-decoration: none;
+    transition: 0.4s all;
+}
+
+.button-luxury:hover {
+    cursor: pointer;
+    background-color: hsl(179, 100%, 13%);
+    color:hsl(0, 0%, 95%);
+    border: solid hsl(0, 0%, 95%) 2px;
 }
 
 .attribution { 
