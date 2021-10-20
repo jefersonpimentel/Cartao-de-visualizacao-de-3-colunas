@@ -14,8 +14,8 @@ Users should be able to:
 ### Screenshot
 
 <img src="./screenshots/web.png" alt="web screenshot">
-<img src="./screenshots/web-hover.png" alt="web-hover screenshot">
-<img src="./screenshots/mobile.png" alt="mobile screenshot">
+<img src="./screenshots/web-hover.jpg" alt="web-hover screenshot">
+<img src="./screenshots/mobile.jpg" alt="mobile screenshot">
 
 ### Links
 
