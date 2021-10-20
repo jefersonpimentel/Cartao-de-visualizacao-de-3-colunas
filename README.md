@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solução](https://your-solution-url.com)
-- Live Site URL: [Site](https://jefersonpimentel.github.io/Cartao-de-visualizacao-de-3-colunas/)
+- Solution URL: [Solução](https://www.frontendmentor.io/solutions/3column-preview-card-component-challenge-hub-WaMpS4Jwn)
+- Live Site URL: [Site](https://cartao-de-visualizacao-de-3-colunas.netlify.app/)
 
 ## My process
 
